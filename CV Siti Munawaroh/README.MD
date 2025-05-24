@@ -1,9 +1,9 @@
-#  Tugas Project CV Kuliah Sesi 7
+#  Tugas Project Portofolio
 
 - **Mata Kuliah:**
  CSF412 Pemrograman Web EU101
 - **Dosen Pengampu:** 
-TRI ISMARDIKO WIDYAWAN, S.Kom, M.Kom
+Hendry Gunawan,S.Kom,MM
 - **Universitas:** 
 Universitas Esa Unggul
 
@@ -11,5 +11,5 @@ Universitas Esa Unggul
 
 - **Nama:** Siti Munawaroh
 - **NIM:** 20230801457
-- **Program Studi:** Teknik Informasi
+- **Program Studi:** Teknik Informatika
 - **Fakultas:** Ilmu Komputer
